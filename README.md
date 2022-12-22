@@ -11,3 +11,7 @@ Further, I used label encoding to convert the text data into numerical values to
 
 After that I compared 2 algorithms i.e. Decision Tree Classifier and Naive Bayes Classification with the help of metrics.accuracy_score() and it revealed that the Naive Bayes algorithm was much more efficient.
 So for the final prediction on the test dataset we use the Naive Bayes Classifier and predict whether a particular user would receive a loan or not.
+
+References:
+Edureka
+Acmegrade Machine Learning Training & Internship
